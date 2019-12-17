@@ -21,11 +21,11 @@ body{
   width: 450px;
   text-align: center;
   overflow: auto;
-  margin: auto;
+  margin: 0 auto;
   margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
-  position: absolute;
+  position: static;
   top: 8px;
   right: 16px;
   font-size: 18px;
