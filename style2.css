@@ -1,0 +1,15 @@
+.section1 {
+	margin: 0 auto;
+	width: 200px;
+	height: 250px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.4);
+	font-weight: 100;
+	font-family: 'Century Gothic', sans-serif;
+	color: white;
+}
+
+.aboutme-img {
+	width: 200px;
+	height: 200px;
+}
